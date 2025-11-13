@@ -1,0 +1,5 @@
+[debian]
+ubuntu-instance ansible_host=13.232.255.62 ansible_user=ubuntu
+
+[redhat]
+amazonlinux-instance ansible_host=13.201.119.73 ansible_user=ec2-user
